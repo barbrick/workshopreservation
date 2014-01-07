@@ -4,4 +4,7 @@ workshopreservation
 Workshop Reservation System
 
 Authors:
-Trevor Barbrick
+<ul>
+  <li>Trevor Barbrick</li>
+  <li>Keegan Dillman</li>
+</ul>
